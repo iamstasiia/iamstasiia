@@ -1,4 +1,6 @@
-### Hi there 👋, I am Anastasiia!
+Hi there 👋,
+
+## I am Anastasiia!
 
 <!--
 **iamstasiia/iamstasiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=ambient_gradient&hide=stars,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=buefy&bg_color=transparent&hide_border=true)](https://github.com/iamstasiia/github-readme-stats)
+
+If you have any feedback, please reach out to us at
+📫 a.khrypko.work@gmail.com
