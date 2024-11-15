@@ -35,7 +35,8 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50" />
 </a>
 <a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="50" width="50" />
+<div style="background-color: #f3f4f6; display: inline-block;">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="50" width="50" /></div>
 </a>
 <a href="https://www.w3schools.com/css/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="50" width="50" />
@@ -79,8 +80,8 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=buefy&bg_color=transparent&hide_border=true)](https://github.com/iamstasiia/github-readme-stats) -->
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=cobalt2&hide=stars,issues) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=cobalt2&hide_border=true)](https://github.com/iamstasiia/github-readme-stats) |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=one_dark_pro&hide=stars,issues&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=one_dark_pro&hide_border=true)](https://github.com/iamstasiia/github-readme-stats) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 💻 Visit my [Portfolio](web-artistry-by-ak.vercel.app) for more details about me [>>>](web-artistry-by-ak.vercel.app)
 
