@@ -75,6 +75,15 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" width="50" />
 </a>
 </div>
+<table>
+  <tr>
+    <td style="background-color: lightgrey; text-align: center; border-radius: 10px;">
+      <a href="https://www.w3.org/html/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="50" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=ambient_gradient&hide=stars,issues) -->
 
