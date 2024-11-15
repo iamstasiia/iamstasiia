@@ -21,9 +21,12 @@ _As a **Full Stack Developer**, I have a strong affinity for working with JavaSc
 
 🌱 I’m committed to continuous learning, convinced that every day offers a chance to gain new insights.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=ambient_gradient&hide=stars,issues)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=ambient_gradient&hide=stars,issues) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=buefy&bg_color=transparent&hide_border=true)](https://github.com/iamstasiia/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=buefy&bg_color=transparent&hide_border=true)](https://github.com/iamstasiia/github-readme-stats) -->
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=ambient_gradient&hide=stars,issues) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=buefy&bg_color=transparent&hide_border=true)](https://github.com/iamstasiia/github-readme-stats) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 💻 Visit my [Portfolio](web-artistry-by-ak.vercel.app) for more details about me [>>>](web-artistry-by-ak.vercel.app)
 This site was built using [GitHub Pages](https://pages.github.com/).
