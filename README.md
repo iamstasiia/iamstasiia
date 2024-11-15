@@ -29,7 +29,5 @@ _As a **Full Stack Developer**, I have a strong affinity for working with JavaSc
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 💻 Visit my [Portfolio](web-artistry-by-ak.vercel.app) for more details about me [>>>](web-artistry-by-ak.vercel.app)
-This site was built using [GitHub Pages](https://pages.github.com/).
 
-If you have any feedback, please reach out to me at
-📫 a.khrypko.work@gmail.com
+📫 If you have any feedback, please reach out to me at a.khrypko.work@gmail.com
