@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header"/>
 </div>
 
 Hi there 👋,
 
 <h1 align="center">I'm Anastasiia!</h1>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=C678DD&center=true&width=600&lines=As+a+passionate+Fullstack+Developer+from+Germany)](https://git.io/typing-svg)
+
+</div>
 
 I have a strong affinity for working with JavaScript, React, Node.js, REST APIs, and creating dynamic data visualizations.
 
@@ -48,10 +51,10 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 </a> -->
 <br>
 
-<h4 align="center">📊 GitHub Stats 📊</h4>
+<h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamstasiia&theme=one_dark_pro&hide_border=true" alt="iamstasiia" /></div>
 
-<h4 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h4>
+<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamstasiia&bg_color=2F4255&&color=ffffff&line=C6538C&point=F1E05A&area=false&hide_border=false" border-radius="15">
 </div>
@@ -66,7 +69,7 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 <br>
 
 <!-- Contacts -->
-<h4 align="center">📫 Feel free to contact me at 📫</h4>
+<h3 align="center">📫 Feel free to contact me at 📫</h3>
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/a.khrypko.work@gmail.com-F1E05A?style=for-the-badge)](mailto:a.khrypko.work@gmail.com) [![Static Badge](https://img.shields.io/badge/linkedin/anastasiia--khrypko-5799D0?style=for-the-badge)](https://www.linkedin.com/in/anastasiia-khrypko-a43a20326/)
@@ -81,7 +84,7 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
 
 </div>
 
