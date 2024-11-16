@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Anastasiia!</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=C678DD&center=true&width=600&lines=As+a+passionate+Full+Stack+Developer+from+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=C678DD&center=true&width=600&lines=As+a+passionate+Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
