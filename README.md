@@ -2,21 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header"/>
 </div>
 
-<h1 align="center">Hi there 👋, I'm Anastasiia!</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Anastasiia!</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=C678DD&center=true&width=600&lines=As+a+passionate+Fullstack+Developer+from+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=C678DD&center=true&width=600&lines=As+a+passionate+Full+Stack+Developer+from+Germany)](https://git.io/typing-svg)
 
 </div>
 
 I have a strong affinity for working with JavaScript, React, Node.js, REST APIs, and creating dynamic data visualizations.
 
--   🔭 I’m currently working on Web Development.
--   🌱 I’m committed to continuous learning, convinced that every day offers a chance to gain new insights.
+-   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="20" height="20"> I'm based in Germany
+-   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I’m committed to continuous learning, convinced that every day offers a chance to gain new insights.
+-   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"> I’m currently working on Web Development.
+-   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="20" height="20"> My [![Static Badge](https://img.shields.io/badge/Portfolio-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app) is right here [![Static Badge](https://img.shields.io/badge/>>>-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app)
 
 <br>
 
--   ### 🦾 Languages and Tools I use:
+-   ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32"> Languages and Tools I use:
 
 <div align="center">
 
@@ -49,7 +51,8 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 </a> -->
 <br>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center"><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> </h2>
+
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamstasiia&theme=one_dark_pro&hide_border=true" alt="iamstasiia" /></div>
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -62,7 +65,7 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 
 <br>
 
-💻 My [![Static Badge](https://img.shields.io/badge/Portfolio-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app) is right here [![Static Badge](https://img.shields.io/badge/>>>-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app)
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="32" height="32"> My [![Static Badge](https://img.shields.io/badge/Portfolio-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app) is right here [![Static Badge](https://img.shields.io/badge/>>>-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app)
 
 <br>
 
@@ -77,7 +80,7 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 
 <!-- Footer -->
 
-### ✍️ Random Dev Quote
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✍️" width="32" height="32"> Random Dev Quote
 
 <div align="center">
 
@@ -91,3 +94,5 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 </a> -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamstasiia&theme=onedark) -->
+
+Some animated emoji used in this project are from [Animated Noto Emoji](https://googlefonts.github.io/noto-emoji-animation/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
