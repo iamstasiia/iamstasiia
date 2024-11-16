@@ -16,7 +16,7 @@ I have a strong affinity for working with JavaScript, React, Node.js, REST APIs,
 
 <br>
 
-#### 🦾 Languages and Tools I use:
+-   ### 🦾 Languages and Tools I use:
 
 <div align="center">
 
