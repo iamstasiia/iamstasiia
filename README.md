@@ -9,14 +9,12 @@
 
 </div>
 
-I have a strong affinity for working with JavaScript, React, Node.js, REST APIs, and creating dynamic data visualizations.
+#### I have a strong affinity for working with JavaScript, React, Node.js, REST APIs, and creating dynamic data visualizations.
 
 -   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="20" height="20"> I'm based in Germany
 -   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I’m committed to continuous learning, convinced that every day offers a chance to gain new insights.
 -   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"> I’m currently working on Web Development.
 -   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="20" height="20"> My [![Static Badge](https://img.shields.io/badge/Portfolio-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app) is right here [![Static Badge](https://img.shields.io/badge/>>>-C6538C?style=for-the-badge)](https://web-artistry-by-ak.vercel.app)
-
-<br>
 
 -   ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="32" height="32"> Languages and Tools I use:
 
