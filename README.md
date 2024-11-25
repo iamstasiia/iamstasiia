@@ -74,11 +74,11 @@
 
 <!-- Footer -->
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✍️" width="32" height="32"> Random Dev Quote
+<!-- ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✍️" width="32" height="32"> Random Dev Quote -->
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
 
 </div>
