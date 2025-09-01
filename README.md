@@ -45,14 +45,14 @@
 </a> -->
 <br>
 
-<h2 align="center"><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> </h2>
+<!-- <h2 align="center"><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> </h2>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamstasiia&theme=one_dark_pro&hide_border=true" alt="iamstasiia" /></div>
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamstasiia&bg_color=2F4255&&color=ffffff&line=C6538C&point=F1E05A&area=false&hide_border=false" border-radius="15">
-</div>
+</div> -->
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamstasiia&show_icons=true&theme=one_dark_pro&hide=stars,issues&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamstasiia&layout=donut&theme=one_dark_pro&hide_border=true)](https://github.com/iamstasiia/github-readme-stats) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
